@@ -7,6 +7,10 @@
 * `ARIANG_PORT` `6801`
 * `RPC_SECRET` `123456`
 
+#### start docker service on linux 
+```
+$ systemctl restart docker.service
+```
 #### run default aria2 docker
 
 ```
